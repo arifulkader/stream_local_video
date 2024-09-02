@@ -1,0 +1,2 @@
+* The videos will keep playing on the server side, looping continuously.
+* When you access the URLs, you'll see the video stream at its current position, even if you close and reopen the browser. The video will not restart from the beginning, mimicking the behavior of a real CCTV camera.
